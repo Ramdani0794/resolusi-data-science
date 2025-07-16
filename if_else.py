@@ -1,3 +1,4 @@
+nama = input("masukan nama: ")
 angka = int(input("masukan angka: ")
 if angka > 5:
   print(f"{angka} adalah nilai yang lebih dari 5")
