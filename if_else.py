@@ -1,12 +1,3 @@
-angka1 = int(input("masukan angka pertama: ")
-angka2 = int(input("masukan angka kedua: ")
-hasil = angka1 + angka2
-if hasil > 5:
-  print(f"{hasil} adalah nilai yang lebih dari 5")
-else:
-  print(f"{hasil} adalah nilai yang kurang dari 5")
-
-
 # program elif
 angka1 = int(input("masukan angka pertama: ")
 angka2 = int(input("masukan angka kedua: ")
