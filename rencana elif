@@ -1,5 +1,7 @@
+nama = inout("Masukan nama: ")
 angka = int(input("masukan angka: ")
 
+print(f"haloo {nama}")
 if angka % 2 == 0:
   print("angka anda adalah genap")
 elif angka % 2 == 1:
